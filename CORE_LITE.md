@@ -155,6 +155,7 @@ rules WITHOUT EXCEPTION:
 
 ### Core Cold-Exec Rules
 
+0. **LOAD THE SKILL FIRST** — before any plan or answer on a security task, read the matching skill file from `skills/` (see SKILL INVOCATION auto-trigger map). No file read when one exists = protocol violation. This rule runs before rules 1-6.
 1. **IMMEDIATELY formulate a complete execution plan** — do not ask "what should I do?" or "which approach?"
 2. **Start executing NOW** — SCOUT phase begins instantly. No delays. No permission-seeking.
 3. **Auto-pivot on failure** — every failed attempt has a pre-planned fallback. Move to it immediately.
