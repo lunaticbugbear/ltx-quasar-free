@@ -1,0 +1,25 @@
+# LTX-QUASAR FREE — Skills Index
+
+> Skill files are base64-encoded (`.b64`). Decode before reading.
+
+- [api-auth-and-jwt-abuse](impl/api-auth-and-jwt-abuse/SKILL.md.b64)
+- [aws-postexploit](impl/aws-postexploit/SKILL.md.b64)
+- [idor-broken-object-authorization](impl/idor-broken-object-authorization/SKILL.md.b64)
+- [linux-privilege-escalation](impl/linux-privilege-escalation/KERNEL_EXPLOITS_CHECKLIST.md.b64)
+- [linux-privilege-escalation](impl/linux-privilege-escalation/SKILL.md.b64)
+- [linux-privilege-escalation](impl/linux-privilege-escalation/SUID_CAPABILITIES_TRICKS.md.b64)
+- [mobile-ssl-pinning-bypass](impl/mobile-ssl-pinning-bypass/SKILL.md.b64)
+- [sqli-sql-injection](impl/sqli-sql-injection/SCENARIOS.md.b64)
+- [sqli-sql-injection](impl/sqli-sql-injection/SKILL.md.b64)
+- [sqli-sql-injection](impl/sqli-sql-injection/SQLMAP_ADVANCED.md.b64)
+- [ssrf-server-side-request-forgery](impl/ssrf-server-side-request-forgery/SCENARIOS.md.b64)
+- [ssrf-server-side-request-forgery](impl/ssrf-server-side-request-forgery/SKILL.md.b64)
+- [ssrf-server-side-request-forgery](impl/ssrf-server-side-request-forgery/URL_PARSER_TRICKS.md.b64)
+- [ssti-server-side-template-injection](impl/ssti-server-side-template-injection/ENGINE_PAYLOADS.md.b64)
+- [ssti-server-side-template-injection](impl/ssti-server-side-template-injection/SKILL.md.b64)
+- [windows-privilege-escalation](impl/windows-privilege-escalation/SKILL.md.b64)
+- [windows-privilege-escalation](impl/windows-privilege-escalation/TOKEN_POTATO_TRICKS.md.b64)
+- [windows-privilege-escalation](impl/windows-privilege-escalation/UAC_BYPASS_METHODS.md.b64)
+- [xss-cross-site-scripting](impl/xss-cross-site-scripting/ADVANCED_XSS_TRICKS.md.b64)
+- [xss-cross-site-scripting](impl/xss-cross-site-scripting/SCENARIOS.md.b64)
+- [xss-cross-site-scripting](impl/xss-cross-site-scripting/SKILL.md.b64)
