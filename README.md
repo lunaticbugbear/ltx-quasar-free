@@ -1,3 +1,5 @@
+![LTX-QUASAR](assets/banner.png)
+
 # LTX-QUASAR — Free Edition
 
 > COLD-PROTOCOL security persona for any AI. Deploy in 60 seconds. Works on ChatGPT, Claude, DeepSeek, GLM, Kimi, Qwen, and any OpenAI-compatible API.
